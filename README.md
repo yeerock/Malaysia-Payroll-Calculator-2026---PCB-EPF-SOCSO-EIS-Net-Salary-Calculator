@@ -2,6 +2,10 @@
 
 A free, open-source payroll calculator for Malaysian employers and employees. Calculate all statutory contributions including PCB (Monthly Tax Deduction), EPF (Employees Provident Fund), SOCSO (Social Security Organization), and EIS (Employment Insurance System) with accurate 2026 rates.
 
+**Demo:** [Live Calculator](https://vyrox.com/miniapps/payroll88/payroll-calculator.php)
+**Demo:** [Live Calculator](https://vyrox.com/miniapps/payroll88/payroll-calculator.php)
+**Demo:** [Live Calculator](https://vyrox.com/miniapps/payroll88/payroll-calculator.php)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple.svg)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green.svg)
