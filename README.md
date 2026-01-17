@@ -6,6 +6,10 @@ A free, open-source payroll calculator for Malaysian employers and employees. Ca
 **Demo:** [Live Calculator](https://vyrox.com/miniapps/payroll88/payroll-calculator.php)
 **Demo:** [Live Calculator](https://vyrox.com/miniapps/payroll88/payroll-calculator.php)
 
+[![Demo](https://img.shields.io/badge/Demo-Live%20Calculator-green.svg)](https://vyrox.com/miniapps/payroll88/payroll-calculator.php)
+[![Demo](https://img.shields.io/badge/Demo-Live%20Calculator-green.svg)](https://vyrox.com/miniapps/payroll88/payroll-calculator.php)
+[![Demo](https://img.shields.io/badge/Demo-Live%20Calculator-green.svg)](https://vyrox.com/miniapps/payroll88/payroll-calculator.php)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple.svg)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green.svg)
